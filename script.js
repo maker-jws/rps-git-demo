@@ -79,6 +79,21 @@ function disableButtons() {
   // allWeapons.forEach(weapon => weapon.setAttribute('disabled', 'false'))
   // either approach would work (removing click events or disabling the button)
 }
-
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
+console.log('My code is different from the main branch')
 // Initialize game
 resetGame()
